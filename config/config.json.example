@@ -1,0 +1,13 @@
+{
+  "serverURL": "https://wap.tplinkcloud.com",
+  "appType": "Kasa_Android",
+  "methods": {
+    "LOGIN": "login",
+    "PASSTHROUGH": "passthrough"
+  },
+  "powerLevels": {
+    "idle": 500,
+    "inUse": 1000
+  },
+  "pollingRate": 5000
+}
