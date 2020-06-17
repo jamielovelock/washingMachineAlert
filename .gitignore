@@ -106,3 +106,5 @@ dist
 #config files
 config/config.json
 config/creds.json
+
+.idea
