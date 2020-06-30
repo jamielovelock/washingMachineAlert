@@ -6,8 +6,12 @@
     "PASSTHROUGH": "passthrough"
   },
   "powerLevels": {
-    "idle": 500,
-    "inUse": 1000
+    "idle": 800,
+    "inUse": 10000
   },
-  "pollingRate": 5000
+  "pollingRate": 5000,
+  "pushover": {
+      "user": "",
+      "token": ""
+    }
 }
